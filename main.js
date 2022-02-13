@@ -209,11 +209,11 @@ class LoadModelDemo {
 
     this._LoadAnimatedModel();
     // this._LoadAnimatedModelAndPlay(
-    //     './resources/dancer/', 'girl.fbx', 'dance.fbx', new THREE.Vector3(0, -1.5, 5));
+    //     './resources/dancer/','nyati.fbx', 'nyati.fbx', new THREE.Vector3(0, -1.5, 5));
     // this._LoadAnimatedModelAndPlay(
-    //     './resources/dancer/', 'dancer.fbx', 'Silly Dancing.fbx', new THREE.Vector3(12, 0, -10));
+    //     './resources/dancer/', 'nyati.fbx', 'nyati.fbx', new THREE.Vector3(12, 0, -10));
     // this._LoadAnimatedModelAndPlay(
-    //     './resources/dancer/', 'dancer.fbx', 'Silly Dancing.fbx', new THREE.Vector3(-12, 0, -10));
+    //     './resources/dancer/', 'nyati.fbx', 'nyati.fbx', new THREE.Vector3(-12, 0, -10));
     this._RAF();
   }
 
